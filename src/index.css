@@ -1,0 +1,271 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+a:link {
+  color: rgb(72, 0, 255);
+}
+
+.right-lang {
+  text-align: right;
+  margin-left: 1650px;
+  font-size: 1.3rem;
+}
+
+.h3-elements {
+  margin-top: 65px;
+}
+
+.a-href {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 500px;
+}
+
+body {
+  width: 100%;
+}
+
+.image-of-woman {
+  float: right;
+  width: 125%;
+  display: inline;
+  margin-right: 200px;
+  padding-left: 400px;
+}
+
+.header-left {
+  font-size: 6rem;
+  margin: 0 100px;
+  display: inine;
+  font-weight: bolder;
+}
+
+#header-1 {
+  font-size: 4rem;
+  font-weight: bolder;
+  margin: 0 100px 0 100px;
+}
+
+.navy {
+  color: rgb(11, 135, 243);
+}
+
+.next-line {
+  display: block;
+}
+
+.about-carlendy {
+  inline-size: 600px;
+  overflow-wrap: initial;
+  margin: 50px 100px 0 100px;
+  font-family: "Gruppo", Arial, Helvetica, sans-serif;
+  font-size: x-large;
+  height: auto;
+  font-weight: lighter;
+}
+
+.footer-text {
+  inline-size: 450px;
+  overflow-wrap: initial;
+}
+
+#email {
+  margin: 10px 0px 0 100px;
+  height: 70px;
+  border: 1px rgb(109, 97, 97) solid;
+  border-radius: 10px;
+}
+
+input::placeholder {
+  padding-left: 10px;
+  font-size: x-large;
+}
+
+.last-parag {
+  margin-top: 0px;
+}
+
+#second-layout {
+  background-color: white;
+  height: 200px;
+  text-align: center;
+  font-size: 2.5rem;
+  padding-top: 30px;
+  font-weight: bold;
+}
+
+.next-line-two {
+  display: block;
+}
+
+.signup-btn {
+  border-radius: 1px red solid;
+  margin-left: 100px;
+}
+
+.flex-container {
+  display: flex;
+  background-color: white;
+}
+
+.images-logo {
+  padding-left: 60px;
+  position: center;
+  margin-left: 60px;
+}
+
+.circleBase {
+  border-radius: 50%;
+}
+
+.circle1 {
+  width: 70px;
+  height: 70px;
+  background-color: rgb(11, 135, 243);
+  border: 1px solid #000;
+  text-align: center;
+  font-size: xx-large;
+  padding-top: 10px;
+}
+
+.h1-circle1 {
+  display: inline;
+}
+
+.element-1 {
+  display: inline-block;
+  width: 70px;
+  height: 70px;
+  background-color: rgb(11, 135, 243);
+  font-size: xx-large;
+  padding-top: 10px;
+  color: white;
+}
+
+#parag-element {
+  margin-left: 80px;
+  font-size: medium;
+  font-family: "Gruppo";
+}
+
+.margin-img {
+  padding-left: 700px;
+  width: 130%;
+}
+
+.margin-third {
+  margin: 100px;
+  padding-top: 50px;
+}
+
+.background-img {
+  height: 500px;
+  border-radius: none;
+}
+
+.text-on-image {
+  font-size: 4.5rem;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  font-family: "Secular One", sans-serif;
+  padding-top: 50px;
+}
+
+.individual-btn {
+  margin-left: 650px;
+  height: 60px;
+  font-size: 3rem;
+  font-weight: bolder;
+}
+
+body {
+  width: 100%;
+}
+
+li {
+  list-style-type: none;
+  font-size: 1rem;
+  font-family: serif;
+}
+
+#heading-h3 {
+  margin: 50px 0 20px 40px;
+  font-size: 2rem;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: blue;
+}
+
+h4 {
+  text-transform: uppercase;
+  font-weight: bolder;
+  color: rgb(11, 135, 243);
+}
+.teams {
+  font-size: 4.5rem;
+}
+
+.text-size {
+  font-size: 3.5rem;
+}
+
+p {
+  color: rgb(121, 116, 116);
+}
+
+.margin-for-teams {
+  margin-bottom: 200px;
+}
+
+header nav {
+  display: flex;
+  gap: 16px;
+  justify-content: end;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+header nav h1 {
+  margin-right: auto;
+  border-bottom: 3px solid var(--primary);
+}
+
+header nav a {
+  text-decoration: none;
+  padding: 6px;
+  border-radius: 4px;
+}
+
+header nav a.active {
+  background: var(--primary);
+}
+
+#marginTop-react {
+  margin-top: 100px;
+}
+
+.margin-right {
+  margin-right: 40px;
+}
+
+.bg-light {
+  height: 10%;
+  width: 100%;
+}
